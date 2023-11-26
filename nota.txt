@@ -15,5 +15,6 @@ git add <Nome do arquivo ou ".">
 git commit -m "<Mensagem>"
 git branch <Nome da Branch>
 git checkout <Nome da Branch>
+git merge <Nome da Branch>
 git pull origin 
 git push origin <Nome da Branch>
