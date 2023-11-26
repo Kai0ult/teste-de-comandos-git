@@ -1,0 +1,19 @@
+----------------------------------------------
+Conceitos avançados de GIT
+
+* Git Resolução de Conflitos
+* Git Sub Modules
+* Git Rebase <---Arriscado
+
+----------------------------------------------
+Comandos GIT
+
+git init
+git status
+git log
+git add <Nome do arquivo ou ".">
+git commit -m "<Mensagem>"
+git branch <Nome da Branch>
+git checkout <Nome da Branch>
+git pull origin 
+git push origin <Nome da Branch>
