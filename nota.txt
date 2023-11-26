@@ -17,4 +17,4 @@ git branch <Nome da Branch>
 git checkout <Nome da Branch>
 git merge <Nome da Branch>
 git pull origin 
-git push origin <Nome da Branch>
+git push origin 
